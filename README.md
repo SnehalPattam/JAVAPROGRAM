@@ -53,7 +53,7 @@
            
         <h2>
             <hr>
-            Features Of Java
+            The Features Of Java
         </h2>
 
         <ul>
@@ -94,7 +94,7 @@
             Once Write Anywhere that means program can run in any operating system.It does not depend on any type of
             platform.</p>
 
-        <h3>4.Neutral or Architecture Neutral</h3>
+        <h3>4.Neutral or Architecture Neutral.</h3>
         <p>If there is change in the RAM of laptop Or machine then also there is no change in the Java program.Java
             allows its application to compile on one hardware architecture and to execute on another hardware
             architecture.</p>
