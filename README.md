@@ -53,7 +53,7 @@
            
         <h2>
             <hr>
-            Features Of Java
+            The Features Of Java
         </h2>
 
         <ul>
