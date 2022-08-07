@@ -102,7 +102,7 @@
             architecture.</p>
 
         <h3>5.Portable</h3>
-        <p>Portable means the conversion of source code to the byte code.Java is known as a "portable language" because
+        <p>Portable means the conversion of source code to the byte code.Java is known as a "portable language" because,
             Java code can execute on all major platforms. </p>
 
         <h3>6.Secure</h3>
