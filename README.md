@@ -43,7 +43,7 @@
     <form class="modal-content animate">
         <div class="imgcontainer"> </div>
     <div>
-        <img src="https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg" alt="java"class="center" width="50" height="250"><hr>
+        <hr>
         <h1> What Is Java Programming ?</h1>
         <p>Java is a object oriented programming language.Developed by <b>Sun Microsystem</b> in 1995. Java is invented
             by James Ghosing (Father of Java) and aquire by the ORACLE.Java is a high-level, class-based,
